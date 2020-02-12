@@ -11,5 +11,5 @@
 <h3>Meus trabalhos pessoais, feitos como forma de estudo ou participações em GameJams.</h3><p>
   
 <ul>
-  <li>The MindFlayer: Jogo de steath no estilo Metal Gear. Mais informações <a href="https://gamejolt.com/games/RouemTheBlackShinigami/460425">aqui!</a></li>
+  <li><b>The MindFlayer:</b> Jogo de steath no estilo Metal Gear. Mais informações <a href="https://gamejolt.com/games/RouemTheBlackShinigami/460425">aqui!</a></li>
 </ul>
