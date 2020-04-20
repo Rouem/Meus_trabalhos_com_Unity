@@ -12,5 +12,6 @@
   
 <ul>
   <li><b>The MindFlayer:</b> Jogo de steath no estilo Metal Gear. Mais informações <a href="https://gamejolt.com/games/RouemTheBlackShinigami/460425">aqui!</a></li>
+  <li><b>Crisis Days:</b> Point-and-Click feito para uma GameJam sobre o COVID-19. Mais informações <a href="https://gamejolt.com/games/crisisdays/480414">aqui!</a></li>
   <li><b>Beat'Em Up:</b> Protótipo básico de jogos de briga de rua. Mais informações <a href="https://github.com/Rouem/Unity-BeatEmUp">aqui!</a></li>
 </ul>
