@@ -17,4 +17,4 @@
   <li><b>Beat'Em Up:</b> Protótipo básico de jogos de briga de rua. Mais informações <a href="https://github.com/Rouem/Unity-BeatEmUp">aqui!</a></li>
 </ul>
 
-Link alternativo: <a href="https://itch.io/my-collections">itch.io</a>
+Link alternativo: <a href="https://raphaelfelipe.itch.io">itch.io</a>
